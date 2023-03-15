@@ -10,7 +10,7 @@ footer{
 }
 
 .nav-link{
-	color:#540b26;
+	color:#540b26 !important;
 }
 .cartel{
     float: right;
