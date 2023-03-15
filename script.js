@@ -71,7 +71,7 @@ var Paz = new Slide(
 var Pasión = new Slide(
 	"Pasión", 
 	"El misterio representa a Jesús con la Cruz al hombro", 
-	"https://www.visitarsevilla.com/wp-content/uploads/2019/08/pasion2-hda-pasion.jpg",
+	"https://pbs.twimg.com/media/D5QSqjNX4AYT9Nk.jpg",
 	"Imagen donde se vé a Jesucristo cargando con la cruz al hombro"
 );
 
@@ -106,7 +106,7 @@ var Montserrat = new Slide(
 var Cachorro = new Slide(
 	"Cachorro", 
 	"El misterio representa la agonía de Jesucristo.", 
-	"https://www.visitarsevilla.com/wp-content/uploads/2015/01/cristo-cachorro.jpg",
+	"https://cinturondeesparto.com/0.1/wp-content/uploads/2020/03/cachorrocintur%C3%B3n7.jpg",
 	"Imagen donde se vé a Jesucristo expirando por ultima vez antes de morir"
 );
 
