@@ -3,15 +3,22 @@
     padding-bottom: 2em;
 
 }
-
-
 footer{
     background-color: #540b26;
 }
 
 .nav-link{
 	color:#540b26 !important;
+    font-weight: bold !important;
+
 }
+
+.active{
+    background-color: #540b26 !important;
+    color: white !important;
+    font-weight: bold !important;
+}
+
 .cartel{
     float: right;
     border-spacing: 2em;
